@@ -1,22 +1,3 @@
-# dasheck0-phaser3-template
-
-This is an ES6 ready Phaser 3 template including game server.   
-
-## Setup
-To finalize the setup for your project do the following:
-
-* Create a .env file on the base directory and add the following parameters:
-```bash
-PORT=
-```
-
-* Run npm install both in base directory and client directory
-* Add appropriate license
-* Delete this readme and add the reald content
-* Start coding :)
-
-## License
-``` 
 MIT License
 
 Copyright (c) 2019 Stefan Neidig
@@ -38,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-```
